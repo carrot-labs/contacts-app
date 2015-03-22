@@ -1,0 +1,21 @@
+{
+  "name": "contacts-app",
+  "version": "0.0.1",
+  "description": "A polymer contacts app",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grvcoelho/contacts-app.git"
+  },
+  "keywords": [
+    "webcomponents",
+    "webapp",
+    "polymer"
+  ],
+  "author": "Guilherme Rv Coelho <guilherme@cenoura.co>",
+  "license": "MIT",
+  "homepage": "https://github.com/grvcoelho/contacts-app"
+}
