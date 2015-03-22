@@ -17,5 +17,14 @@
   ],
   "author": "Guilherme Rv Coelho <guilherme@cenoura.co>",
   "license": "MIT",
-  "homepage": "https://github.com/grvcoelho/contacts-app"
+  "homepage": "https://github.com/grvcoelho/contacts-app",
+  "devDependencies": {
+    "browser-sync": "^2.4.0",
+    "gulp": "^3.8.11",
+    "gulp-plumber": "^1.0.0",
+    "gulp-stylus": "^2.0.1",
+    "jeet": "^6.1.2",
+    "kouto-swiss": "^0.11.9",
+    "rupture": "^0.6.1"
+  }
 }
