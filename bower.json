@@ -1,0 +1,24 @@
+{
+  "name": "contacts-app",
+  "version": "0.0.1",
+  "authors": [
+    "Guilherme Rv Coelho <guilhermervcoelho@gmail.com>"
+  ],
+  "homepage": "",
+  "description": "A polymer contacts app",
+  "main": "app/index.html",
+  "keywords": [
+    "webcomponents",
+    "webapp",
+    "polymer"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
