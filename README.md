@@ -6,10 +6,10 @@
 
 `npm install`
 
-2. Install bower dependencies
+2. Install bower dependencies:
 
 `bower install`
 
-3. Build the application and run the server
+3. Build the application and run the server:
 
 `gulp`
