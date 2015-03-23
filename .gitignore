@@ -1,4 +1,10 @@
+### Styles ###
+
+app/styles/**/*.css
+app/elements/**/*.css
+
 ### Components ###
+
 app/components
 bower_components
 .bower-cache
