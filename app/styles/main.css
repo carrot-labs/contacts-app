@@ -1,0 +1,22 @@
+/** 
+ * Third-party dependencies
+ */
+/** 
+ * Project partials
+ */
+html,
+body {
+  height: 100%;
+  margin: 0;
+  background: #eee;
+  font-family: 'RobotoDraft', 'Roboto', sans-serif;
+  font-size: 16px;
+}
+core-toolbar {
+  background-color: #3f51b5;
+  color: #fff;
+  box-shadow: none;
+}
+h1 {
+  color: rgba(0,0,0,0.87);
+}
