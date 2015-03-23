@@ -44,7 +44,7 @@ gulp.task('reload', function() {
 
 gulp.task('stylus', function () {
   return gulp
-    .src(['app/**/*.styl', '!app/**/partials/*.styl'])
+    .src(['app/**/*.styl', 'app/styles/main.styl', '!app/styles/{base,modules}/*.styl'])
     .pipe(plumber())
     .pipe(stylus({
       // compress: true,
